@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "myntra-scraper": {
+      "command": "d:\\MCP Myntra\\.venv\\Scripts\\python.exe",
+      "args": ["-m", "myntra_scraper_mcp.server"],
+      "cwd": "d:\\MCP Myntra",
+      "env": {
+        "PYTHONPATH": "d:\\MCP Myntra\\src"
+      },
+      "disabled": false
+    }
+  }
+}
